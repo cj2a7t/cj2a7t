@@ -11,7 +11,7 @@
   <img alt="LuaJIT" src="https://img.shields.io/badge/LuaJIT-000080?style=for-the-badge&logo=lua&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-3178C6?style=for-the-badge&logo=go&logoColor=white" />
-</p> -->
+</p>
 
 ---
 
