@@ -1,4 +1,8 @@
-<h3 align="center">Hey 👋 I'm Coder Jia</h1>
+<p align="center">
+  <h3 align="center">Hey 👋 I'm Coder Jia</h1>
+  <a href="cj2act@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/cj2a7t"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 <h4 align="center">⚡ A passionate full-stack developer and open-source enthusiast ⚡</h3>
 <p align="center">
 <p align="center">
@@ -7,36 +11,8 @@
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
-</p>
-
 ---
-
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj2a7t&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cj2a7t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
----
-
-## 🔧 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,lua,ts,react,nextjs,docker,kubernetes,nginx,linux" />
-</p>
-
----
-
-## 🧭 Motto
-
-> “Build systems that scale. Write code that lasts.”  
-> “Love the borrow checker. Fear the undefined behavior.”  
-> — Coder Jia
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/cj2a7t"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
