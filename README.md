@@ -1,7 +1,12 @@
-<h1 align="center" style="font-size:32px;">Hey 👋 I'm Coder Jia</h1>
-<h3 align="center" style="font-size:20px;">⚡ A passionate full-stack developer and open-source enthusiast ⚡</h3>
-<p align="center" style="font-size:16px;">
-  <code>Java</code> • <code>LuaJIT</code> • <code>Rust</code> • <code>TypeScript</code>
+<h3 align="center">Hey 👋 I'm Coder Jia</h1>
+<h4 align="center">⚡ A passionate full-stack developer and open-source enthusiast ⚡</h3>
+<p align="center">
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="LuaJIT" src="https://img.shields.io/badge/LuaJIT-000080?style=for-the-badge&logo=lua&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 </p>
 
 ---
