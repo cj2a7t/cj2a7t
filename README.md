@@ -11,7 +11,9 @@
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
 ---
+
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj2a7t&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cj2a7t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
