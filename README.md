@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Hey 👋 I'm Coder JiA</h3>
+  <h3 align="center">Hey 👋 I'm cj2a7t</h3>
   <p align="center">
     <a href="cj2act@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/cj2a7t"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
