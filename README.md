@@ -13,9 +13,3 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-  <img width="315px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cj2a7t&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&count_private=true&hide=Dockerfile,CSS,Shell,Less,HTML" />
-  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=cj2a7t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
